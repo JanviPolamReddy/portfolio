@@ -1,5 +1,5 @@
 const header = {
-  homepage: 'https://janvipolamreddy.github.io/github-portfolio/',
+  homepage: 'https://janvipolamreddy.github.io/portfolio/',
   title: 'JP',
 }
 
