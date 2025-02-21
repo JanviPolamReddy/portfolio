@@ -4,7 +4,7 @@ A clean and simple portfolio template built using React, Javascript, CSS
 
 ## Preview
 
-[See Live](https://janvipolamreddy.github.io/github-portfolio/)
+[See Live](https://janvipolamreddy.github.io/portfolio/)
 
 ## Instructions
 
