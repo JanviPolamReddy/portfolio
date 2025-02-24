@@ -5,7 +5,7 @@ const header = {
 
 const about = {
   name: 'Janvi',
-  role: 'MS CS at FSU-Tallahassee | Graduate Teaching Assistant | Ex-Phenom',
+  role: 'MS CS at FSU | Graduate Teaching Assistant | Ex-Phenom',
   description:
     'Software engineer with experience in full-stack development, cloud computing, and distributed systems. Proven track record at Phenom, optimizing career site CMS performance and automating content workflows. Proficient in C++, Java, Python, and a robust tech stack. Passionate about building scalable, high-performance applications.',
   resume:
@@ -110,13 +110,13 @@ const experience = [
   {
     name: 'Phenom',
     description:
-      'Product Development Engineer, CMS Team \n Designed and maintained scalable microservices for the Career Site CMS, enabling real-time content updates and personalized job recommendations using Java, Python, and Spring Boot. I optimized SQL queries and caching strategies (Redis, MySQL, MongoDB), reducing API response times by 40%. I also developed RESTful APIs, UI components (React.js, Vue.js), and automated testing suites (JUnit, Jest, Cypress) to enhance site performance and reliability.',
+      'Software Development Engineer, CMS Team \n Designed and maintained scalable microservices for the Career Site CMS, enabling real-time content updates and personalized job recommendations using Java, Python, and Spring Boot. I optimized SQL queries and caching strategies (Redis, MySQL, MongoDB), reducing API response times by 40%. I also developed RESTful APIs, UI components (React.js, Vue.js), and automated testing suites (JUnit, Jest, Cypress) to enhance site performance and reliability.',
     stack: ['Hyderabad, India', 'Jun 2022 - Jul 2023'],
   },
   {
     name: 'Phenom',
     description:
-      'Product Development Intern, CMS Team \n Enhanced the Career Site CMS by developing dynamic UI components, improving site responsiveness. Built and optimized back-end services in Java and Python, enabling faster content rendering and smoother API interactions. Wrote SQL queries and optimized database indexing for efficient job search and filtering within Career Sites. Developed automated job posting workflows using Python and Shell scripting, reducing manual content updates by 30%.',
+      'Software Development Intern, CMS Team \n Enhanced the Career Site CMS by developing dynamic UI components, improving site responsiveness. Built and optimized back-end services in Java and Python, enabling faster content rendering and smoother API interactions. Wrote SQL queries and optimized database indexing for efficient job search and filtering within Career Sites. Developed automated job posting workflows using Python and Shell scripting, reducing manual content updates by 30%.',
     stack: ['Hyderabad, India', 'Feb 2022 - May 2022'],
   },
   {
