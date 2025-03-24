@@ -7,9 +7,9 @@ const about = {
   name: 'Janvi',
   role: 'MS CS at FSU | Graduate Teaching Assistant | Ex-Phenom',
   description:
-    'Software engineer with experience in full-stack development, cloud computing, and distributed systems. Proven track record at Phenom, optimizing career site CMS performance and automating content workflows. Proficient in C++, Java, Python, and a robust tech stack. Passionate about building scalable, high-performance applications.',
+    'Software Developer with 2+ years of expertise in full-stack development, database systems, and microservices. Proficient in Java, C++, Python, and cloud platforms (Azure, AWS). Skilled in designing fault-tolerant architectures, optimizing parallel computing workflows, and developing high-performance APIs.',
   resume:
-    'https://drive.google.com/file/d/1lsRJwUsiBj0jatBh5AoZ359x7WqSW4f_/view?usp=sharing',
+    'https://drive.google.com/file/d/1rnxiFRoQMFb-0C8h7KuUfURO7GZbFtoE/view?usp=share_link',
   social: {
     linkedin: 'https://www.linkedin.com/in/janvi-polamreddy/',
     github: 'https://github.com/JanviPolamReddy/',
@@ -25,7 +25,7 @@ const education = [
   {
     name: 'Andhra University, Visakhapatnam',
     description: 'B.Tech in Information Technology',
-    stack: ['Aug 2018 - May 2022', 'GPA: 8.97/10.0'],
+    stack: ['Aug 2018 - May 2022', 'GPA: 3.9/4.0'],
   },
 ]
 
@@ -108,22 +108,28 @@ const skills = [
 
 const experience = [
   {
-    name: 'Phenom',
+    name: 'Graduate Researcher (Distributed Systems)',
     description:
-      'Software Development Engineer, CMS Team \n Designed and maintained scalable microservices for the Career Site CMS, enabling real-time content updates and personalized job recommendations using Java, Python, and Spring Boot. I optimized SQL queries and caching strategies (Redis, MySQL, MongoDB), reducing API response times by 40%. I also developed RESTful APIs, UI components (React.js, Vue.js), and automated testing suites (JUnit, Jest, Cypress) to enhance site performance and reliability.',
-    stack: ['Hyderabad, India', 'Jun 2022 - Jul 2023'],
+      'Engineered parallel computing optimizations, boosting execution efficiency by 25%. Designed benchmarking tools to analyze multiprocessor systems, reducing processing overhead by 30%. Researched fault tolerance models and load balancing techniques to enhance system resilience & reduce latency by 20%.',
+    stack: ['Florida State University - Tallahassee, FL', 'Jan 2025 - Present'],
   },
   {
-    name: 'Phenom',
+    name: 'Graduate Teaching Assistant',
     description:
-      'Software Development Intern, CMS Team \n Enhanced the Career Site CMS by developing dynamic UI components, improving site responsiveness. Built and optimized back-end services in Java and Python, enabling faster content rendering and smoother API interactions. Wrote SQL queries and optimized database indexing for efficient job search and filtering within Career Sites. Developed automated job posting workflows using Python and Shell scripting, reducing manual content updates by 30%.',
-    stack: ['Hyderabad, India', 'Feb 2022 - May 2022'],
+      'Mentored 50+ students per semester in Secured Systems, Parallel Computing, Unix tools, and Software Engineering. Diagnosed multi-threaded and multi-node systems, improving student code efficiency by 30%. Programmed grading workflows using Python, cutting manual grading time by 40% and accelerating feedback cycles. Assisted Courses: COP4342 - Unix Tools (Shell Scripting & Perl Programming) & COP4521 - Programming Secure, Parallel and Distributed Applications.',
+    stack: ['Florida State University - Tallahassee, FL', 'Jan 2024 - Present'],
   },
   {
-    name: 'Florida State University',
+    name: 'Software Development Engineer (CMS Team)',
     description:
-      'Graduate Teaching Assistant \n Led Programming Secure, Parallel, and Distributed Applications & Unix Tools(Shell Scripting) courses. Assisted students in debugging, testing and data optimization, reinforcing knowledge of distributed computing.',
-    stack: ['Tallahassee, FL', 'Jan 2024 - May 2025'],
+      'Designed and maintained scalable microservices for the Career Site CMS, enabling real-time content updates and personalized job recommendations using Java, Python, and Spring Boot. I optimized SQL queries and caching strategies (Redis, MySQL, MongoDB), reducing API response times by 40%. I also developed RESTful APIs, UI components (React.js, Vue.js), and automated testing suites (JUnit, Jest, Cypress) to enhance site performance and reliability.',
+    stack: ['Phenom - Hyderabad, India', 'Jun 2022 - Jul 2023'],
+  },
+  {
+    name: 'Software Development Intern (CMS Team)',
+    description:
+      'Enhanced the Career Site CMS by developing dynamic UI components, improving site responsiveness. Built and optimized back-end services in Java and Python, enabling faster content rendering and smoother API interactions. Wrote SQL queries and optimized database indexing for efficient job search and filtering within Career Sites. Developed automated job posting workflows using Python and Shell scripting, reducing manual content updates by 30%.',
+    stack: ['Phenom - Hyderabad, India', 'Feb 2022 - May 2022'],
   }
 ]
 
