@@ -1,5 +1,6 @@
 import GitHubIcon from '@material-ui/icons/GitHub'
 import LinkedInIcon from '@material-ui/icons/LinkedIn'
+import LeetCodeIcon from "../LeetCodeIcon"
 import { about } from '../../portfolio'
 import './About.css'
 
@@ -45,6 +46,16 @@ const About = () => {
                 className='link link--icon'
               >
                 <LinkedInIcon />
+              </a>
+            )}
+
+            {social.leetcode && (
+              <a
+                href={social.leetcode}
+                aria-label='leetcode'
+                className='link link--icon'
+              >
+                <LeetCodeIcon width={40} height={40} />
               </a>
             )}
           </>

@@ -13,6 +13,7 @@ const about = {
   social: {
     linkedin: 'https://www.linkedin.com/in/janvi-polamreddy/',
     github: 'https://github.com/JanviPolamReddy/',
+    leetcode: 'https://leetcode.com/u/polamreddyjanvi2001/'
   },
 }
 
